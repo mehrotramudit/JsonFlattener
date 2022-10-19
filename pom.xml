@@ -9,7 +9,7 @@
     <properties>
         <commons.lang.version>3.9</commons.lang.version>
         <json.simple.version>1.1.1</json.simple.version>
-        <jackson.databind.version>2.10.3</jackson.databind.version>
+        <jackson.databind.version>2.13.4.1</jackson.databind.version>
         <commons.collections.version>4.4</commons.collections.version>
         <slf4j.api.version>1.7.30</slf4j.api.version>
         <slf4j.log4j.version>1.7.30</slf4j.log4j.version>
